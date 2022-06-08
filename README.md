@@ -6,12 +6,11 @@
 이 모든것 이전에 git을 설치하여야 합니다. 
 다음으로 git bash를 열고 환경설정을 몇가지 해주어야 하지요.
 git download-> https://git-scm.com/downloads
-첫번째 : user name 설정하기 
-        git config --global user.name "hyung ju kim"
-두번째 : user email 설정하기 
-        git config --global user.email "hyungjukim749@gmail.com"
-          * 여기서 이메일은 반드시 깃헙 회원가입시 설정한 이메일로!!
-삼단계 : git config --list  
+
+1) user name 설정하기 git config --global user.name "hyung ju kim"
+2) user email 설정하기 git config --global user.email "hyungjukim749@gmail.com"
+   * 여기서 이메일은 반드시 깃헙 회원가입시 설정한 이메일로!!
+3) git config --list  
 
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
