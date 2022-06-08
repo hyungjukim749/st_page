@@ -4,7 +4,8 @@
 #github에 local파일을 올리는 방법 : 처음사용자를 위한 페이지입니다. 
 
 이 모든것 이전에 git을 설치하여야 합니다. 
-다음으로 git bash를 열고 환경설정을 몇가지 해주어야 하지요. git download-> https://git-scm.com/downloads
+다음으로 git bash를 열고 환경설정을 몇가지 해주어야 해요. 
+git download-> https://git-scm.com/downloads
 
 1) user name 설정하기 git config --global user.name "hyung ju kim"
 2) user email 설정하기 git config --global user.email "hyungjukim749@gmail.com"
