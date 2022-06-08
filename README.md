@@ -15,7 +15,7 @@ git download-> https://git-scm.com/downloads
 3) git config --list  
 
 
-ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 # github 과 vscode 연결방법(vscode 사용)
  1) (st_venv) D:\likelion\st_page>git init
  2) (st_venv) D:\likelion\st_page>git add main_page.py
